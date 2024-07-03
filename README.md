@@ -3,6 +3,9 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chris+JNim!;+welcome+to+my+profile;" />
 </h1>
+  <div align="center">
+    <img src="./2c4542649a439792ce53f5e2cdcb4aff.jpg" align="right" width="170" height="270">
+    
 
 <h3 align="center">A passionate software developer from Earth</h3>
 
