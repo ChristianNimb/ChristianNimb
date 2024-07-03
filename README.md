@@ -2,10 +2,10 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chris+JNim!;+welcome+to+my+profile;" />
-</h1>
-  <div align="center">
+<div align="center">
     <img src="./57a7d352b2b5be0ba8538d5a50580a30.jpg" align="right" width="170" height="270">
-    
+    </h1>
+  
 
 <h3 align="center">A passionate software developer from Earth</h3>
 
