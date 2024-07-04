@@ -56,11 +56,11 @@
 
 <hr/>
 
-<h2 align="right">⚡ 𝕾𝖙𝖆𝖙𝖘 ✍⚡</h2>
+<h2 align="center">⚡ 𝕾𝖙𝖆𝖙𝖘 ✍⚡</h2>
 <br><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChristianNimb&theme=transparent" alt="GitHub Streak" /></a>
  
  <picture>
-  <source align='center'
+  <source align='right'
     srcset="https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
