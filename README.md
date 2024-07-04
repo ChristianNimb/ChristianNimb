@@ -7,21 +7,21 @@
     </h1>
   
 
-<h3 align="center">*A passionate software developer from Earth*</h3>
+<h3 align="right">🍺🥂🍸 𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓔𝓪𝓻𝓽𝓱 🍻🍷🍹</h3>
 
 <br/>
 
 <dl>
     <dt align="left"><strong>firstName:<strong/></dt>
-        <dd align="left"><em>Christian</em></dd>
+        <dd align="left"><em>Cₕᵣᵢₛₜᵢₐₙ</em></dd>
           <dt align="left"><strong>LastName:<strong/></dt>
-        <dd align="left"><em>j.Nimbuesn</em></dd>
+        <dd align="left"><em>ʲ.ᴺⁱᵐᵇᵘᵉⁿ</em></dd>
          <dt align="left"><strong>Loves:<strong/></dt>
               <dd align="left"><em>Coding</em></dd>
         
 </dl>
 
-  <h1 align="center" color="gold">Reach me at<h1/>
+  <h1 align="center" color="gold">𝓡𝓮𝓪𝓬𝓱 𝓶𝓮 𝓪𝓽<h1/>
 <div align="center"> 
   <a href="mailto:cnimbuen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
