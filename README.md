@@ -19,7 +19,7 @@
         
 </dl>
 
-  <h2>Contact me at<h2/>
+  <h1 align="center" color="gold">Contact me at<h1/>
 <div align="center"> 
   <a href="mailto:cnimbuen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
