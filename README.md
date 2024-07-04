@@ -12,14 +12,16 @@
 <br/>
 
 <dl>
-    <dt align="left"><strong>Name:<strong/></dt>
-        <dd align="left"><em>Chris</em></dd>
+    <dt align="left"><strong>firstName:<strong/></dt>
+        <dd align="left"><em>Christian</em></dd>
+          <dt align="left"><strong>LastName:<strong/></dt>
+        <dd align="left"><em>j.Nimbuesn</em></dd>
          <dt align="left"><strong>Loves:<strong/></dt>
               <dd align="left"><em>Coding</em></dd>
         
 </dl>
 
-  <h1 align="center" color="gold">Contact me at<h1/>
+  <h1 align="center" color="gold">Reach me at<h1/>
 <div align="center"> 
   <a href="mailto:cnimbuen@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
