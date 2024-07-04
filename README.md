@@ -17,7 +17,7 @@
           <dt align="left"><strong>LastName:<strong/></dt>
         <dd align="left"><em>ʲ.ᴺⁱᵐᵇᵘᵉⁿ</em></dd>
          <dt align="left"><strong>Loves:<strong/></dt>
-              <dd align="left"><em>Coding</em></dd>
+              <dd align="left"><em>ᶜᵒᵈⁱⁿᵍ👨‍💻</em></dd>
         
 </dl>
 
@@ -29,14 +29,14 @@
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
+  <a href="https://chrisjoy-github-io.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
 
  <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼-𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼-𝓣𝓸𝓸𝓵𝓼-𝓲-𝓾𝓼𝓮 ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
@@ -47,16 +47,16 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 𝓜𝔂 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="𝓈𝓃𝒶𝓀𝑒 𝑒𝒶𝓉𝒾𝓃𝑔 𝓂𝓎 𝒸𝑜𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾𝑜𝓃𝓈" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ 𝕾𝖙𝖆𝖙𝖘 ✍⚡</h2>
 <br><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChristianNimb&theme=transparent" alt="GitHub Streak" /></a>
  
  <picture>
