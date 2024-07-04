@@ -60,11 +60,11 @@
 <br><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChristianNimb&theme=transparent" alt="GitHub Streak" /></a>
  
  <picture>
-  <source
+  <source align='center'
     srcset="https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true" />
+  <img align='center'src="https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true" />
 </picture>
     
 </div>
