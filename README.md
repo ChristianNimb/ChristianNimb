@@ -11,17 +11,13 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **a websites**
- 
- 🌱 I’m currently learning **JS,EJS , NodeJS **
-
-💬 Ask me about **Node.js, js, css... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
-
- </div>
+<dl>
+    <dt align="right"><strong>Name:<strong/></dt>
+        <dd align="right"><em>Chris</em></dd>
+         <dt align="right"><strong>Loves:<strong/></dt>
+              <dd align="right"><em>Coding</em></dd>
+        
+</dl>
  
 <div align="center"> 
   <a href="mailto:cnimbuen@gmail.com">
