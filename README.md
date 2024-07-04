@@ -12,10 +12,10 @@
 <br/>
 
 <dl>
-    <dt align="right"><strong>Name:<strong/></dt>
-        <dd align="right"><em>Chris</em></dd>
-         <dt align="right"><strong>Loves:<strong/></dt>
-              <dd align="right"><em>Coding</em></dd>
+    <dt align="left"><strong>Name:<strong/></dt>
+        <dd align="left"><em>Chris</em></dd>
+         <dt align="left"><strong>Loves:<strong/></dt>
+              <dd align="left"><em>Coding</em></dd>
         
 </dl>
  
