@@ -148,7 +148,7 @@ Check out my [repositories](https://github.com/ChristianNimb?tab=repositories) t
 
 *"The best way to predict the future is to create it."*
 
-<img src="https://komarev.com/ghpvc/?username=ChristianNimb&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile views" />
+<!-- <img src="https://komarev.com/ghpvc/?username=ChristianNimb&color=6366f1&style=flat-square&label=Profile+Views" alt="Profile views" /> -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
