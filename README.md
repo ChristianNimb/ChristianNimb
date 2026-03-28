@@ -1,82 +1,55 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+# Hey, I’m Christian 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Chris+JNim!;+welcome+to+my+profile;" />
-<div align="center">
-    <img src="./57a7d352b2b5be0ba8538d5a50580a30.jpg" align="right" width="170" height="270">
-    </h1>
-  
+## 2nd Year CS Student | Building Cool Stuff While Learning
 
-<h3 align="right">🍺🥂🍸 𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓼𝓸𝓯𝓽𝔀𝓪𝓻𝓮 𝓭𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓯𝓻𝓸𝓶 𝓔𝓪𝓻𝓽𝓱 🍻🍷🍹</h3>
+I’m a Computer Science student passionate about creating tools that actually solve problems. Currently diving deep into **full-stack development** and **mobile apps** while sharpening my problem-solving skills.
 
-<br/>
+### 🔧 What I’m Working With
 
-<dl>
-    <dt align="left"><strong>firstName:<strong/></dt>
-        <dd align="left"><em>Cₕᵣᵢₛₜᵢₐₙ</em></dd>
-          <dt align="left"><strong>LastName:<strong/></dt>
-        <dd align="left"><em>ʲ.ᴺⁱᵐᵇᵘᵉⁿ</em></dd>
-         <dt align="left"><strong>Loves:<strong/></dt>
-              <dd align="left"><em>ᶜᵒᵈⁱⁿᵍ👨‍💻</em></dd>
-        
-</dl>
+```javascript
+const christian = {
+    currentlyLearning: ["Java", "Python", "Android Development"],
+    comfortable: ["HTML", "CSS", "JavaScript", "Frontend Development"],
+    interests: ["Web Development", "Mobile Apps", "Automation", "UI/UX"],
+    currentFocus: "Building portfolio projects that matter",
+    funFact: "I have a gaming setup but use it more for coding than gaming 🎮💻"
+};
+```
 
-  <h1 align="center" color="gold">𝓡𝓮𝓪𝓬𝓱 𝓶𝓮 𝓪𝓽<h1/>
-<div align="center"> 
-  <a href="mailto:cnimbuen@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/Christian Johnson" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://chrisjoy-github-io.vercel.app/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-</div>
+### 🚀 Current Projects
 
- <hr/>
- 
-<h2 align="center">⚒️ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼-𝓕𝓻𝓪𝓶𝓮𝔀𝓸𝓻𝓴𝓼-𝓣𝓸𝓸𝓵𝓼-𝓲-𝓾𝓼𝓮 ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mongodb" />
-</div>
+- 🌐 **Personal Dashboard** - Customizable browser start page with weather, todos, and themes
+- 📱 Working on Android apps to strengthen mobile dev skills
+- 🎨 Frontend challenges on Frontend Mentor to sharpen UI skills
 
-<br/>
-<hr/>
+### 💡 What I’m Learning Right Now
 
-<div align="center">
-  <h2>🐍 𝓜𝔂 𝓒𝓸𝓷𝓽𝓻𝓲𝓫𝓾𝓽𝓲𝓸𝓷𝓼 🐍</h2>
-  <br>
-  <img alt="𝓈𝓃𝒶𝓀𝑒 𝑒𝒶𝓉𝒾𝓃𝑔 𝓂𝓎 𝒸𝑜𝓃𝓉𝓇𝒾𝒷𝓊𝓉𝒾𝑜𝓃𝓈" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+- Building full-stack applications with Python backends
+- Android development with Java
+- Data structures & algorithms for technical interviews
+- Turning ideas into deployed projects
 
-<hr/>
+### 📫 Let’s Connect
 
-<h2 align="center">⚡ 𝕾𝖙𝖆𝖙𝖘 ✍⚡</h2>
-<br><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ChristianNimb&theme=transparent" alt="GitHub Streak" /></a>
- 
- <picture align='right'>
-  <source 
-    srcset="https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  /> 
-  <img align="right"src="https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true" />
-</picture>
-    
-</div>
+I’m always interested in collaborating on projects, learning from others, and building cool stuff together.
 
-<br/><br/>
+- **GitHub:** You’re already here! Check out my pinned repos
+- **Learning in Public:** I believe in documenting the journey, not just the destination
 
-<hr/>
+-----
 
-<br/>
+### 📊 GitHub Stats
 
-<div align="center">
-<a href='https://www.buymeacoffee.com/CHRISTIANNIMB' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+![Christian’s GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
 
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianNimb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+-----
+
+<p align="center">
+  <i>💭 "The best way to learn is to build."</i>
+</p >
+
+<p align="center">
+  < img src="https://komarev.com/ghpvc/?username=ChristianNimb&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+</p >
