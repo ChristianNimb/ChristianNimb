@@ -79,7 +79,7 @@ fun_fact: "Gaming setup turned coding battlestation 🎮 → 💻"
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
   
   <!-- Main Stats Card - Shows total commits, PRs, issues, stars you've earned -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ChristianNimb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
@@ -87,7 +87,7 @@ fun_fact: "Gaming setup turned coding battlestation 🎮 → 💻"
   <!-- Language Stats - Shows which languages you use most in your repos -->
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianNimb&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"/>
 
-</div>
+</div> -->
 
 <div align="center">
   
